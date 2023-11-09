@@ -16,6 +16,13 @@ body {
     padding: 20px;
     max-width: 400px;
     width: 100%;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    border-radius: 8px;
+    margin-bottom: 10px;
 }
 
 h2 {
